@@ -1,0 +1,467 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "username": "hieudq",
+      "password": "hieudq"
+    },
+    {
+      "username": "huongnt",
+      "password": "12345",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "productname": "Iphone 15 Pro Max",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-thumbtz-650x650.png",
+      "price": "34.290k",
+      "views": 50,
+      "stars": 5,
+      "nsx": "Apple"
+    },
+    {
+      "productname": "Iphone 14 Pro Max",
+      "url": "https://cdn.viettelstore.vn/Images/Product/ProductImage/1896224739.jpeg",
+      "price": "27.290k",
+      "views": 19,
+      "stars": 4,
+      "nsx": "Apple"
+    },
+    {
+      "productname": "Iphone Xs Max",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/190321/iphone-xs-max-gold-600x600.jpg",
+      "price": "7.000k",
+      "views": 11,
+      "stars": 4,
+      "nsx": "Apple"
+    },
+    {
+      "productname": "Galaxy S22 ultra",
+      "url": "https://product.hstatic.net/1000370129/product/12845f39ec8c99440a3c984_master_68ec303788424e21ad0f5b936ae73177_master_16b09828c61e4cdfa1b4296b8bff89c7.png",
+      "price": "15.390k",
+      "views": 12,
+      "stars": 3,
+      "nsx": "Samsung"
+    },
+    {
+      "productname": "Galaxy Z Fold 5",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/250625/samsung-galaxy-z-fold4-kem-256gb-600x600.jpg",
+      "price": "22.300k",
+      "views": 19,
+      "stars": 4,
+      "nsx": "Samsung"
+    },
+    {
+      "productname": "Galaxy S23 Plus",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/290829/samsung-galaxy-s23-plus-3-600x600.jpg",
+      "price": "19.500k",
+      "views": 19,
+      "stars": 3,
+      "nsx": "Samsung"
+    },
+    {
+      "productname": "Redmi note 12",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/309846/xiaomi-redmi-note-12-vang-1-thumb-momo-600x600.jpg",
+      "price": "5.490k",
+      "views": 23,
+      "stars": 5,
+      "nsx": "Xiaomi"
+    },
+    {
+      "productname": "Xiaomi Mi 11 pro",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/230769/xiaomi-mi-11-pro-600x600-3-600x600.jpg",
+      "price": "9.999k",
+      "views": 6,
+      "stars": 4,
+      "nsx": "Xiaomi"
+    },
+    {
+      "productname": "Iphone 14 Plus",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/245545/iPhone-14-plus-thumb-xanh-1-600x600.jpg",
+      "price": "21.290k",
+      "views": 15,
+      "stars": 3,
+      "nsx": "Apple"
+    },
+    {
+      "productname": "Galaxy S23 Ultra 5G",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/249948/samsung-galaxy-s23-ultra-thumb-xanh-600x600.jpg",
+      "price": "22.490k",
+      "views": 11,
+      "stars": 5,
+      "nsx": "Samsung"
+    },
+    {
+      "productname": "Iphone 15",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/281570/iphone-15-den-thumb-600x600.jpg",
+      "price": "23.290k",
+      "views": 19,
+      "stars": 4,
+      "nsx": "Apple"
+    },
+    {
+      "productname": "Iphone 13 Pro Max",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-xanh-la-thumb-600x600.jpg",
+      "price": "20.190k",
+      "views": 33,
+      "stars": 2,
+      "nsx": "Apple"
+    },
+    {
+      "productname": "Galaxy Note 10 plus",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/206176/samsung-galaxy-note-10-plus-white-new-600x600.jpg",
+      "price": "6.990k",
+      "views": 22,
+      "stars": 4,
+      "nsx": "Samsung"
+    },
+    {
+      "productname": "Galaxy S10 plus",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/179530/samsung-galaxy-s10-plus-white-600x600.jpg",
+      "price": "22.490k",
+      "views": 11,
+      "stars": 4,
+      "nsx": "Samsung"
+    },
+    {
+      "productname": "Iphone X",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/114115/iphone-x-64gb-hh-600x600.jpg",
+      "price": "5.120k",
+      "views": 22,
+      "stars": 3,
+      "nsx": "Apple"
+    },
+    {
+      "productname": "Iphone 8 plus",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-hh-600x600-600x600.jpg",
+      "price": "4.390k",
+      "views": 19,
+      "stars": 5,
+      "nsx": "Apple"
+    },
+    {
+      "productname": "Iphone 6s plus",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/71770/iphone-6s-plus-xam-org-1.png",
+      "price": "1.800k",
+      "views": 24,
+      "stars": 1,
+      "nsx": "Apple"
+    },
+    {
+      "productname": "Galaxy S20 Ultra",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/217937/samsung-galaxy-s20-ultra-600x600-1-600x600.jpg",
+      "price": "5.990k",
+      "views": 25,
+      "stars": 4,
+      "nsx": "Samsung"
+    },
+    {
+      "productname": "Galaxy S8 plus",
+      "url": "https://cdn.xtmobile.vn/vnt_upload/product/Hinh_DT/SamSung/S8/thumbs/(600x600)_crop_s8_plus_800x800.jpg",
+      "price": "4.999k",
+      "views": 12,
+      "stars": 3,
+      "nsx": "Samsung"
+    },
+    {
+      "productname": "Redmi note 5 pro",
+      "url": "https://cdn.xtmobile.vn/vnt_upload/product/03_2018/thumbs/600_redmi_note_5_pro_black_800x800.jpg",
+      "price": "1.390k",
+      "views": 35,
+      "stars": 5,
+      "nsx": "Xiaomi"
+    },
+    {
+      "productname": "Oppo Reno 7",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/271717/oppo-reno7-z-5g-thumb-2-1-600x600.jpg",
+      "price": "7.490k",
+      "views": 4,
+      "stars": 1,
+      "nsx": "Oppo"
+    },
+    {
+      "productname": "Oppo A17",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/288401/oppo-a17-den-thumb-600x600.jpg",
+      "price": "3.490k",
+      "views": 3,
+      "stars": 0,
+      "nsx": "Oppo"
+    },
+    {
+      "productname": "Realme C55",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/301603/realme-c35-vang-thumb-600x600.jpg",
+      "price": "4.390k",
+      "views": 4,
+      "stars": 1,
+      "nsx": "Realme"
+    },
+    {
+      "productname": "Realme 11",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/310647/realme-11-thumb-600x600.jpg",
+      "price": "6.990k",
+      "views": 19,
+      "stars": 4,
+      "nsx": "Realme"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Apple",
+      "url": "https://media.loveitopcdn.com/3807/thumb/logo-apple-1.png"
+    },
+    {
+      "name": "Samsung",
+      "url": "https://images.samsung.com/is/image/samsung/assets/vn/about-us/brand/logo/mo/360_197_1.png?$FB_TYPE_B_PNG$"
+    },
+    {
+      "name": "Xiaomi",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Xiaomi_logo.svg/2048px-Xiaomi_logo.svg.png"
+    },
+    {
+      "name": "Oppo",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/OPPO_LOGO_2019.png"
+    },
+    {
+      "name": "Vivo",
+      "url": "https://www.vivosmartphone.vn/themes/vivo/img/1024px-Vivo_logo_2019.png"
+    },
+    {
+      "name": "Nokia",
+      "url": "https://techtimesvn.com/wp-content/uploads/2023/02/Nokia-doi-logo-lan-dau-sau-gan-60-nam-de.jpg"
+    },
+    {
+      "name": "Sony",
+      "url": "https://bidesign.vn/uploads/advertise/thiet-ke-logo-sony.jpg"
+    },
+    {
+      "name": "Realme",
+      "url": "https://cdn.sforum.vn/sforum/wp-content/uploads/2021/08/Realme-Logo-Featured-scaled.jpg"
+    }
+  ],
+  "mobiles": [
+    {
+      "name": "Iphone 15 Pro Max",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/305658/s16/iphone-15-pro-max-blue-thumbtz-650x650.png",
+      "status": "Còn hàng",
+      "price": "34.290k",
+      "nsx": "Apple",
+      "socialNetwork": [
+        {
+          "facebook": "https://facebook.com",
+          "twiter": "https://tiwiter.com",
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Iphone 14 Pro Max",
+      "url": "https://cdn.viettelstore.vn/Images/Product/ProductImage/1896224739.jpeg",
+      "status": "Còn hàng",
+      "price": "27.290k",
+      "nsx": "Apple",
+      "socialNetwork": [
+        {
+          "facebook": "https://facebook.com"
+        }
+      ]
+    },
+    {
+      "name": "Iphone Xs Max",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/190321/iphone-xs-max-gold-600x600.jpg",
+      "status": "Hết hàng",
+      "price": "7.00k",
+      "nsx": "Apple",
+      "socialNetwork": [
+        {
+          "twiter": "https://tiwiter.com"
+        }
+      ]
+    },
+    {
+      "name": "Oppo reno 10",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/306979/oppo-reno10-pro-grey-thumbnew-600x600.jpg",
+      "status": "Còn hàng",
+      "price": "13.390k",
+      "nsx": "Oppo",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Xiaomi redmi note 12 Pro",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/299734/xiaomi-redmi-12-pro-4g-xanh-thumb-600x600.jpg",
+      "status": "Còn hàng",
+      "price": "6.390k",
+      "nsx": "Xiaomi",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Samsung galaxy S23 Plus",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/290829/samsung-galaxy-s23-plus-3-600x600.jpg",
+      "status": "Hết hàng",
+      "price": "19.990k",
+      "nsx": "Samsung",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Samsung galaxy S22 Ultra",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/235838/Galaxy-S22-Ultra-Burgundy-600x600.jpg",
+      "status": "Hết hàng",
+      "price": "16.990k",
+      "nsx": "Samsung",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Xiaomi redmi note 4x",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/84905/xiaomi-redmi-note-42-org.png",
+      "status": "Hết hàng",
+      "price": "1.234k",
+      "nsx": "Xiaomi",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Iphone 6s plus",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/87846/iphone-6s-plus-32gb-hh-600x600-600x600-600x600-600x600.jpg",
+      "status": "Hết hàng",
+      "price": "2.340k",
+      "nsx": "Apple",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Iphone 15 plus",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/303891/iphone-15-plus-128gb-xanh-thumb-600x600.jpg",
+      "status": "Còn hàng",
+      "price": "25.740k",
+      "nsx": "Apple",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Oppo Reno 10 Pro",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/306980/oppo-reno10-pro-plus-thumbnew-600x600.jpg",
+      "status": "Còn hàng",
+      "price": "10.990k",
+      "nsx": "Oppo",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Redmi note 11",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/245261/Xiaomi-redmi-note-11-blue-600x600.jpg",
+      "status": "Hết hàng",
+      "price": "3.250k",
+      "nsx": "Xiaomi",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Redmi note 12s",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/273335/xiaomi-redmi-note12s-den-thumb-600x600.jpg",
+      "status": "Còn hàng",
+      "price": "5.940k",
+      "nsx": "Xiaomi",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Galaxy Z Flip 5",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/299250/samsung-galaxy-z-flip5-xanh-mint-thumb-600x600.jpg",
+      "status": "Còn hàng",
+      "price": "22.340k",
+      "nsx": "Samsung",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Galaxy S21fe 5G",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/267211/Samsung-Galaxy-S21-FE-vang-1-2-600x600.jpg",
+      "status": "Còn hàng",
+      "price": "9.990k",
+      "nsx": "Samsung",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Oppo Reno 7",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/247361/oppo-reno7-5g-xanh-thumb-600x600.jpg",
+      "status": "Hết hàng",
+      "price": "7.640k",
+      "nsx": "Oppo",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Oppo A17",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/288401/oppo-a17-den-thumb-600x600.jpg",
+      "status": "Hết hàng",
+      "price": "3.440k",
+      "nsx": "Oppo",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    },
+    {
+      "name": "Realme 11",
+      "url": "https://cdn.tgdd.vn/Products/Images/42/310647/realme-11-thumb-600x600.jpg",
+      "status": "Hết hàng",
+      "price": "6.540k",
+      "nsx": "Realme",
+      "socialNetwork": [
+        {
+          "instagram": "https://instagram.com"
+        }
+      ]
+    }
+  ]
+}
